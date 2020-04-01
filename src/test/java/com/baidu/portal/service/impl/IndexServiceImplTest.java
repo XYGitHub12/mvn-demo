@@ -7,5 +7,6 @@ public class IndexServiceImplTest {
     @org.junit.Test
     public void run() {
         System.out.println("Hello World!");
+        System.out.println("Hello GitHub!");
     }
 }
